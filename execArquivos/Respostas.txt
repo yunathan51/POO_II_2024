@@ -1,0 +1,4 @@
+Pergunta: O plástico é um material biodegradável, Resposta: F, Resposta fornecida: f
+Pontuação: 0
+Pergunta: Os dinossauros coexistiram com os seres humanos, Resposta: F, Resposta fornecida: f
+Pontuação: 1

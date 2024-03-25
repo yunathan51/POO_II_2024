@@ -1,0 +1,40 @@
+A Lua orbita ao redor da Terra.V
+A água ferve a 100 graus Celsius ao nível do mar.V
+O Sol é o maior planeta do Sistema Solar.F
+A clorofila é responsável pela cor verde das plantas.V
+O oxigênio é o gás mais abundante na atmosfera terrestre.F
+O sistema operacional Windows foi desenvolvido pela Apple.F
+A Grande Muralha da China é visível do espaço.F
+A Vitamina C ajuda a prevenir o escorbuto.V
+O Brasil é o país mais populoso do mundo.F
+O DNA é composto por quatro bases nitrogenadas.V
+Apenas os mamíferos têm sangue vermelho.F
+O continente africano é o maior em área territorial.V
+A energia elétrica pode ser armazenada em baterias.V
+O ferro é um metal mais leve do que a água.F
+A revolução francesa ocorreu no século XVIII.V
+O ácido clorídrico é uma substância alcalina.F
+A Antártida é o continente mais frio do mundo.V
+O oxigênio é necessário para a combustão.V
+O sistema solar possui apenas oito planetas.F
+O formato da Terra é plano.F
+O diamante é uma forma pura de carbono.V
+O processo de fotossíntese ocorre apenas à noite.F
+O café é a bebida mais consumida no mundo depois da água.V
+A capital do Canadá é Toronto.F
+A energia solar é renovável.V
+O sol é uma estrela.V
+A Segunda Guerra Mundial começou em 1914.F
+O Brasil é um país bilíngue.F
+A Lua possui sua própria luz.F
+O sistema nervoso central é composto pelo cérebro e pelos nervos periféricos.F
+O zero é um número par.V
+A energia geotérmica é derivada do calor da Terra.V
+O átomo é a menor unidade de um elemento químico.V
+O petróleo é uma fonte de energia renovável.F
+O pH neutro é 7.V
+O plástico é um material biodegradável.F
+O sangue humano é azul dentro do corpo e vermelho quando exposto ao ar.F
+O ano bissexto ocorre a cada cinco anos.F
+O ácido sulfúrico é um ácido forte.V
+Os dinossauros coexistiram com os seres humanos.F
